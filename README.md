@@ -28,7 +28,7 @@
 <hr>
 <div align="center">
     <h2>📈 My Stats</h2>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Isaac&theme=github-green-purple" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=isac-deodanes&theme=github-green-purple" alt="GitHub Streak" /></a>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isac-deodanes&theme=github-green-purple)](https://git.io/streak-stats)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ISAC-DEODANES&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isac-deodanes&size_weight=0.5&count_weight=0.5)
