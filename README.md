@@ -30,6 +30,11 @@
 <div align="center">
     <h2>📈 My Stats</h2>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=isac-deodanes&theme=github-green-purple" alt="GitHub Streak" /></a>
-  
+  ![isac-deodanes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isac-deodanes&theme=outrun&hide_border=true)
+  ![isac-deodanes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isac-deodanes&theme=outrun&hide_border=true)
+  ![isac-deodanes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isac-deodanes&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 </div>
 
+ <p align="center"> 
+   <img src="https://komarev.com/ghpvc/?username=isac-deodanes&label=Profile%20views&color=0e75b6&style=flat" alt="isac" /> 
+ </p>
