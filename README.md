@@ -23,15 +23,13 @@
             <h3>FrontEnd Development</h3>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
         </div>
 </div>
 <hr>
 <div align="center">
     <h2>📈 My Stats</h2>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=isac-deodanes&theme=github-green-purple" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isac-deodanes&theme=github-green-purple)](https://git.io/streak-stats)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ISAC-DEODANES&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isac-deodanes&size_weight=0.5&count_weight=0.5)
+  
 </div>
 
