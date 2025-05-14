@@ -12,7 +12,7 @@
       - 📞 How to reach me isacdeodanes@gmail.com
   </div>
 <div>
-        <h2>📝Por el momento tengo un poco de conocimiento sobre:</h2>
+        <h2>📝At the moment I have a little knowledge about:</h2>
         <div>
             <h3>Programming lenguages</h3>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
