@@ -8,7 +8,7 @@
   <div>
     🧑‍💻 About me :
 
-      - 📝 Ask me about javaScript, html, css
+      - 📝 Ask me about javaScript, html5, css3, laravel, vuejs.
       - 📞 How to reach me isacdeodanes@gmail.com
   </div>
 <div>
